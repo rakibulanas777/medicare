@@ -6,6 +6,8 @@ import Appointment from "./Component/Appointment";
 import Reviews from "./Component/Reviews";
 import Contact from "./Component/Contact";
 import Login from "./Component/Login";
+import "./App.css";
+import Footer from "./Component/Shared/Footer";
 function App() {
 	return (
 		<div className="App" data-theme="mytheme">

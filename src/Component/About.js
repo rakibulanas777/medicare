@@ -1,9 +1,10 @@
 import React from "react";
+import Header from "./Home/Header";
 
 const About = () => {
 	return (
 		<div>
-			<h1 className="text-2xl text-center">About</h1>
+			<Header />
 		</div>
 	);
 };

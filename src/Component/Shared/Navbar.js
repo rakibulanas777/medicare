@@ -5,7 +5,7 @@ import CustomLink from "./CustomLink";
 const Navbar = () => {
 	const [navbar, setNavbar] = useState(false);
 	return (
-		<div className="navbar bg-base-100 shadow-sm">
+		<div className="navbar bg-base-100 shadow-sm sticky top-0 z-10">
 			<div className="container mx-auto flex justify-between items-center">
 				<div className="lg:hidden">
 					<div className="dropdown">
