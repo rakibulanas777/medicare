@@ -1,8 +1,8 @@
 import Navbar from "./Component/Shared/Navbar";
 import { Routes, Route } from "react-router-dom";
 import Home from "./Component/Home/Home";
-import About from "./Component/About";
-import Appointment from "./Component/Appointment";
+import About from "./Component/About/About";
+import Appointment from "./Component/Appoinment/Appointment";
 import Reviews from "./Component/Reviews";
 import Contact from "./Component/Contact";
 import Login from "./Component/Login";
@@ -20,6 +20,7 @@ function App() {
 				<Route path="/contact" element={<Contact />} />
 				<Route path="/login" element={<Login />} />
 			</Routes>
+			<Footer />
 		</div>
 	);
 }

@@ -1,7 +1,10 @@
 import React from "react";
 import "./Header.css";
 import chair from "../../assets/images/chair.png";
+import PrimaryButton from "../Shared/PrimaryButton";
+import { Link, useNavigate } from "react-router-dom";
 const Header = () => {
+	const navigate = useNavigate();
 	return (
 		<div className="header">
 			<div className="container mx-auto">
@@ -10,6 +13,7 @@ const Header = () => {
 						<img
 							src={chair}
 							className="max-w-sm rounded-lg shadow-2xl lg:mb-0 mb-8"
+							alt=""
 						/>
 						<div>
 							<h1 className="text-5xl font-bold">Your New Smile Starts Here</h1>
@@ -18,9 +22,9 @@ const Header = () => {
 								assumenda excepturi exercitationem quasi. In deleniti eaque aut
 								repudiandae et a id nisi.
 							</p>
-							<button className="bg-gradient-to-r from-secondary to-primary btn glass text-white hover:bg-secondary">
-								Get Started
-							</button>
+							<Link to="/appointment">
+								<PrimaryButton>Get Started</PrimaryButton>
+							</Link>
 						</div>
 					</div>
 				</div>

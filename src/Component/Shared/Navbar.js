@@ -58,10 +58,7 @@ const Navbar = () => {
 						)}
 					</div>
 				</div>
-				<Link
-					className="btn btn-ghost btn-primary font-medium normal-case text-xl"
-					to="/"
-				>
+				<Link className="text-primary font-bold normal-case text-xl" to="/">
 					medicare
 				</Link>
 

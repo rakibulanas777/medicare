@@ -1,6 +1,7 @@
 import React from "react";
 import doctor from "../../assets/images/doctor.png";
 import appointment from "../../assets/images/appointment.png";
+import PrimaryButton from "../Shared/PrimaryButton";
 
 const MakeAppointment = () => {
 	return (
@@ -25,9 +26,7 @@ const MakeAppointment = () => {
 						ad sed maiores doloremque consequatur. Amet consequuntur quibusdam
 						autem, quod maxime qui itaque quaerat.
 					</p>
-					<button className="bg-gradient-to-r from-secondary to-primary btn glass text-white hover:bg-secondary">
-						Get Started
-					</button>
+					<PrimaryButton>Get Started</PrimaryButton>
 				</div>
 			</div>
 		</section>
