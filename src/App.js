@@ -5,9 +5,10 @@ import About from "./Component/About/About";
 import Appointment from "./Component/Appoinment/Appointment";
 import Reviews from "./Component/Reviews";
 import Contact from "./Component/Contact";
-import Login from "./Component/Login";
+import Login from "./Component/LogIn/Login";
 import "./App.css";
 import Footer from "./Component/Shared/Footer";
+import Register from "./Component/Register/Register";
 function App() {
 	return (
 		<div className="App" data-theme="mytheme">
@@ -19,6 +20,7 @@ function App() {
 				<Route path="/reviews" element={<Reviews />} />
 				<Route path="/contact" element={<Contact />} />
 				<Route path="/login" element={<Login />} />
+				<Route path="/register" element={<Register />} />
 			</Routes>
 			<Footer />
 		</div>

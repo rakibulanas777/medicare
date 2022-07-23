@@ -32,7 +32,7 @@ const Contact = () => {
 					placeholder="Your message"
 					rows={6}
 				></textarea>
-				<PrimaryButton>Get Started</PrimaryButton>
+				<PrimaryButton>Contact us</PrimaryButton>
 			</div>
 		</div>
 	);

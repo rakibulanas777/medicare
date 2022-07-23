@@ -5,8 +5,7 @@ import chair from "../../assets/images/chair.png";
 import { DayPicker } from "react-day-picker";
 import "react-day-picker/dist/style.css";
 import "./AppoinmentBanner.css";
-const AppointmentBanner = () => {
-	const [date, setDate] = useState(new Date());
+const AppointmentBanner = ({ dateset, setNewDate }) => {
 	return (
 		<div className="appoinmentBanner">
 			<div className="container mx-auto">
@@ -18,9 +17,13 @@ const AppointmentBanner = () => {
 							alt=""
 						/>
 						<div className="flex-center">
-							<DayPicker mode="single" selected={date} onSelect={setDate} />
+							<DayPicker
+								mode="single"
+								selected={dateset}
+								onSelect={setNewDate}
+							/>
 							<p className="text-xl text-accent">
-								Your selected Date : {format(date, "PP")}
+								Your selected Date : {format(dateset, "PP")}
 							</p>
 						</div>
 					</div>

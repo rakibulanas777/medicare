@@ -54,6 +54,9 @@ const Navbar = () => {
 								<li className="pr-2 mb-4">
 									<CustomLink to="/login">Login</CustomLink>
 								</li>
+								<li className="pr-2 mb-4">
+									<CustomLink to="/register">Register</CustomLink>
+								</li>
 							</ul>
 						)}
 					</div>
@@ -81,6 +84,9 @@ const Navbar = () => {
 						</li>
 						<li className="pr-2">
 							<CustomLink to="/login">Login</CustomLink>
+						</li>
+						<li className="">
+							<CustomLink to="/register">Register</CustomLink>
 						</li>
 					</ul>
 				</div>
