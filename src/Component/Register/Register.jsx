@@ -4,8 +4,11 @@ import { FcGoogle } from "react-icons/fc";
 import { AiOutlineGithub, AiFillTwitterCircle } from "react-icons/ai";
 
 import { BsFacebook } from "react-icons/bs";
+import { useSignInWithGoogle } from "react-firebase-hooks/auth";
 import { Navigate } from "react-router-dom";
 import { Link } from "react-router-dom";
+import auth from "../Shared/firebaseinit";
+import SocialLogin from "../Shared/SocialLogin";
 const Register = () => {
 	const [registerData, setRegisterData] = useState({});
 	const [check, setCheck] = useState(false);
@@ -24,7 +27,7 @@ const Register = () => {
 	// 	setRegisterData(newRegisterData);
 	// 	e.preventDefault();
 	// };
-
+	const [signInWithGoogle, user, loading, error] = useSignInWithGoogle(auth);
 	const handleOnSubmit = async (e) => {
 		const firstName = e.target.firstName.value;
 		const lastName = e.target.lastName.value;
@@ -189,20 +192,7 @@ const Register = () => {
 					<div className="text-xl text-center text-green-900 mt-2 font-semibold">
 						or
 					</div>
-					<div className="flex justify-center mt-3 mb-3 items-center">
-						<div className="icon btn btn-ghost glass bg-white w-14 h-14 rounded-full shadow mr-3">
-							<FcGoogle className=" text-2xl" />
-						</div>
-						<div className="icon btn btn-ghost glass bg-white w-14 h-14 rounded-full shadow mr-3">
-							<AiOutlineGithub className=" text-2xl" />
-						</div>
-						<div className="icon btn btn-ghost glass bg-white w-14 h-14 rounded-full shadow mr-3">
-							<BsFacebook className=" text-2xl" />
-						</div>
-						<div className="icon btn btn-ghost glass bg-white w-14 h-14 rounded-full shadow mr-3">
-							<AiFillTwitterCircle className=" text-2xl" />
-						</div>
-					</div>
+					<SocialLogin />
 				</div>
 			</section>
 		</div>
