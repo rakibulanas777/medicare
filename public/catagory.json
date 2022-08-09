@@ -1,0 +1,43 @@
+[
+	{
+		"catagoryName": "physicians",
+		"color": "bg-primary"
+	},
+
+	{
+		"catagoryName": "Obstetricians",
+		"color": "bg-primary"
+	},
+	{
+		"catagoryName": "Internists",
+		"color": "bg-secondary"
+	},
+	{
+		"catagoryName": "Psychiatrists",
+		"color": "bg-secondary"
+	},
+	{
+		"catagoryName": "Gynecologists",
+		"color": "bg-primary"
+	},
+	{
+		"catagoryName": "Neurologists",
+		"color": "bg-secondary"
+	},
+	{
+		"catagoryName": "Radiologists",
+		"color": "bg-primary"
+	},
+	{
+		"catagoryName": "Anesthesiologists",
+		"color": "bg-secondary"
+	},
+	{
+		"catagoryName": "Pediatricians",
+		"color": "bg-primary"
+	},
+	{
+		"catagoryName": "Cardiologists",
+		"color": "bg-secondary"
+	}
+]

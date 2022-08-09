@@ -1,4 +1,5 @@
 import React from "react";
+import Catagory from "./Catagory";
 import Contact from "./Contact";
 import Dentalcare from "./Dentalcare";
 import Header from "./Header";
@@ -12,7 +13,9 @@ const Home = () => {
 		<div>
 			<Header />
 			<Info />
+			<Catagory />
 			<Service />
+
 			<Dentalcare />
 			<MakeAppointment />
 			<Testimonials />
