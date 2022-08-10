@@ -1,0 +1,289 @@
+[
+	{
+		"name": "Faysal Rana",
+		"username": "faysal123",
+		"password": "pass@123",
+		"email": "faisal32@gmail.com",
+		"catagory": "Physician",
+		"working": "Upazila Health Complex,Faridganj,Chandpur",
+		"years": 3,
+		"BMDC": 103280,
+		"joined": "8 Feb 2021",
+		"rating": 4.9,
+		"people": 7314,
+		"about": "MBBS(Chittagong Medical College), BCS(Health), FCPS(Final Part-Medicine),PGT(Medicine), CCD(BIRDEM) MCGP(Pediatrics)(Reg-2103046002) Medical Officer:Upazila Health Complex, Faridganj,Chandpur Ex-MO: Imperial Hospital (COVID ICU),Chittagong Ex-MO:CSCR Hospital,Chittagong Ex-MO:Surgiscope Hospital(NICU), Chittagong Ex-EMO:Mirsarai Seba Hospital,Chittagong",
+		"consultation": "12:00 pm - 01:00 am",
+		"fee": "157.50",
+		"attended": 19418,
+		"followup": 105,
+		"availability": "Sat, Sun, Mon, Tue, Wed, Thu, Fri",
+		"code": "DT2056",
+		"experience": [
+			{
+				"hospital": "Imperial Hospital,Chittagong",
+				"designation": "Medical Officer",
+				"department": "Covid Department",
+				"period": "Jul 11, 2020 - Aug 31, 2021"
+			},
+			{
+				"hospital": "Imperial Hospital,Chittagong",
+				"designation": "Medical Officer",
+				"department": "Covid Department",
+				"period": "Jul 11, 2020 - Aug 31, 2021"
+			},
+			{
+				"hospital": "Imperial Hospital,Chittagong",
+				"designation": "Medical Officer",
+				"department": "Covid Department",
+				"period": "Jul 11, 2020 - Aug 31, 2021"
+			}
+		],
+		"photo": "https://i.ibb.co/vzvTZTv/Untitled-design-9.png"
+	},
+	{
+		"name": "Faysal Rana",
+		"username": "faysal123",
+		"password": "pass@123",
+		"email": "faisal32@gmail.com",
+		"catagory": "Physician",
+		"working": "Upazila Health Complex,Faridganj,Chandpur",
+		"years": 3,
+		"BMDC": 103280,
+		"joined": "8 Feb 2021",
+		"rating": 4.9,
+		"people": 7314,
+		"about": "MBBS(Chittagong Medical College), BCS(Health), FCPS(Final Part-Medicine),PGT(Medicine), CCD(BIRDEM) MCGP(Pediatrics)(Reg-2103046002) Medical Officer:Upazila Health Complex, Faridganj,Chandpur Ex-MO: Imperial Hospital (COVID ICU),Chittagong Ex-MO:CSCR Hospital,Chittagong Ex-MO:Surgiscope Hospital(NICU), Chittagong Ex-EMO:Mirsarai Seba Hospital,Chittagong",
+		"consultation": "12:00 pm - 01:00 am",
+		"fee": "157.50",
+		"attended": 19418,
+		"followup": 105,
+		"availability": "Sat, Sun, Mon, Tue, Wed, Thu, Fri",
+		"code": "DT2056",
+		"experience": [
+			{
+				"hospital": "Imperial Hospital,Chittagong",
+				"designation": "Medical Officer",
+				"department": "Covid Department",
+				"period": "Jul 11, 2020 - Aug 31, 2021"
+			},
+			{
+				"hospital": "Imperial Hospital,Chittagong",
+				"designation": "Medical Officer",
+				"department": "Covid Department",
+				"period": "Jul 11, 2020 - Aug 31, 2021"
+			},
+			{
+				"hospital": "Imperial Hospital,Chittagong",
+				"designation": "Medical Officer",
+				"department": "Covid Department",
+				"period": "Jul 11, 2020 - Aug 31, 2021"
+			}
+		],
+		"photo": "https://i.ibb.co/vzvTZTv/Untitled-design-9.png"
+	},
+	{
+		"name": "Faysal Rana",
+		"username": "faysal123",
+		"password": "pass@123",
+		"email": "faisal32@gmail.com",
+		"catagory": "Physician",
+		"working": "Upazila Health Complex,Faridganj,Chandpur",
+		"years": 3,
+		"BMDC": 103280,
+		"joined": "8 Feb 2021",
+		"rating": 4.9,
+		"people": 7314,
+		"about": "MBBS(Chittagong Medical College), BCS(Health), FCPS(Final Part-Medicine),PGT(Medicine), CCD(BIRDEM) MCGP(Pediatrics)(Reg-2103046002) Medical Officer:Upazila Health Complex, Faridganj,Chandpur Ex-MO: Imperial Hospital (COVID ICU),Chittagong Ex-MO:CSCR Hospital,Chittagong Ex-MO:Surgiscope Hospital(NICU), Chittagong Ex-EMO:Mirsarai Seba Hospital,Chittagong",
+		"consultation": "12:00 pm - 01:00 am",
+		"fee": "157.50",
+		"attended": 19418,
+		"followup": 105,
+		"availability": "Sat, Sun, Mon, Tue, Wed, Thu, Fri",
+		"code": "DT2056",
+		"experience": [
+			{
+				"hospital": "Imperial Hospital,Chittagong",
+				"designation": "Medical Officer",
+				"department": "Covid Department",
+				"period": "Jul 11, 2020 - Aug 31, 2021"
+			},
+			{
+				"hospital": "Imperial Hospital,Chittagong",
+				"designation": "Medical Officer",
+				"department": "Covid Department",
+				"period": "Jul 11, 2020 - Aug 31, 2021"
+			},
+			{
+				"hospital": "Imperial Hospital,Chittagong",
+				"designation": "Medical Officer",
+				"department": "Covid Department",
+				"period": "Jul 11, 2020 - Aug 31, 2021"
+			}
+		],
+		"photo": "https://i.ibb.co/vzvTZTv/Untitled-design-9.png"
+	},
+	{
+		"name": "Faysal Rana",
+		"username": "faysal123",
+		"password": "pass@123",
+		"email": "faisal32@gmail.com",
+		"catagory": "Physician",
+		"working": "Upazila Health Complex,Faridganj,Chandpur",
+		"years": 3,
+		"BMDC": 103280,
+		"joined": "8 Feb 2021",
+		"rating": 4.9,
+		"people": 7314,
+		"about": "MBBS(Chittagong Medical College), BCS(Health), FCPS(Final Part-Medicine),PGT(Medicine), CCD(BIRDEM) MCGP(Pediatrics)(Reg-2103046002) Medical Officer:Upazila Health Complex, Faridganj,Chandpur Ex-MO: Imperial Hospital (COVID ICU),Chittagong Ex-MO:CSCR Hospital,Chittagong Ex-MO:Surgiscope Hospital(NICU), Chittagong Ex-EMO:Mirsarai Seba Hospital,Chittagong",
+		"consultation": "12:00 pm - 01:00 am",
+		"fee": "157.50",
+		"attended": 19418,
+		"followup": 105,
+		"availability": "Sat, Sun, Mon, Tue, Wed, Thu, Fri",
+		"code": "DT2056",
+		"experience": [
+			{
+				"hospital": "Imperial Hospital,Chittagong",
+				"designation": "Medical Officer",
+				"department": "Covid Department",
+				"period": "Jul 11, 2020 - Aug 31, 2021"
+			},
+			{
+				"hospital": "Imperial Hospital,Chittagong",
+				"designation": "Medical Officer",
+				"department": "Covid Department",
+				"period": "Jul 11, 2020 - Aug 31, 2021"
+			},
+			{
+				"hospital": "Imperial Hospital,Chittagong",
+				"designation": "Medical Officer",
+				"department": "Covid Department",
+				"period": "Jul 11, 2020 - Aug 31, 2021"
+			}
+		],
+		"photo": "https://i.ibb.co/vzvTZTv/Untitled-design-9.png"
+	},
+	{
+		"name": "Faysal Rana",
+		"username": "faysal123",
+		"password": "pass@123",
+		"email": "faisal32@gmail.com",
+		"catagory": "Physician",
+		"working": "Upazila Health Complex,Faridganj,Chandpur",
+		"years": 3,
+		"BMDC": 103280,
+		"joined": "8 Feb 2021",
+		"rating": 4.9,
+		"people": 7314,
+		"about": "MBBS(Chittagong Medical College), BCS(Health), FCPS(Final Part-Medicine),PGT(Medicine), CCD(BIRDEM) MCGP(Pediatrics)(Reg-2103046002) Medical Officer:Upazila Health Complex, Faridganj,Chandpur Ex-MO: Imperial Hospital (COVID ICU),Chittagong Ex-MO:CSCR Hospital,Chittagong Ex-MO:Surgiscope Hospital(NICU), Chittagong Ex-EMO:Mirsarai Seba Hospital,Chittagong",
+		"consultation": "12:00 pm - 01:00 am",
+		"fee": "157.50",
+		"attended": 19418,
+		"followup": 105,
+		"availability": "Sat, Sun, Mon, Tue, Wed, Thu, Fri",
+		"code": "DT2056",
+		"experience": [
+			{
+				"hospital": "Imperial Hospital,Chittagong",
+				"designation": "Medical Officer",
+				"department": "Covid Department",
+				"period": "Jul 11, 2020 - Aug 31, 2021"
+			},
+			{
+				"hospital": "Imperial Hospital,Chittagong",
+				"designation": "Medical Officer",
+				"department": "Covid Department",
+				"period": "Jul 11, 2020 - Aug 31, 2021"
+			},
+			{
+				"hospital": "Imperial Hospital,Chittagong",
+				"designation": "Medical Officer",
+				"department": "Covid Department",
+				"period": "Jul 11, 2020 - Aug 31, 2021"
+			}
+		],
+		"photo": "https://i.ibb.co/vzvTZTv/Untitled-design-9.png"
+	},
+	{
+		"name": "Faysal Rana",
+		"username": "faysal123",
+		"password": "pass@123",
+		"email": "faisal32@gmail.com",
+		"catagory": "Physician",
+		"working": "Upazila Health Complex,Faridganj,Chandpur",
+		"years": 3,
+		"BMDC": 103280,
+		"joined": "8 Feb 2021",
+		"rating": 4.9,
+		"people": 7314,
+		"about": "MBBS(Chittagong Medical College), BCS(Health), FCPS(Final Part-Medicine),PGT(Medicine), CCD(BIRDEM) MCGP(Pediatrics)(Reg-2103046002) Medical Officer:Upazila Health Complex, Faridganj,Chandpur Ex-MO: Imperial Hospital (COVID ICU),Chittagong Ex-MO:CSCR Hospital,Chittagong Ex-MO:Surgiscope Hospital(NICU), Chittagong Ex-EMO:Mirsarai Seba Hospital,Chittagong",
+		"consultation": "12:00 pm - 01:00 am",
+		"fee": "157.50",
+		"attended": 19418,
+		"followup": 105,
+		"availability": "Sat, Sun, Mon, Tue, Wed, Thu, Fri",
+		"code": "DT2056",
+		"experience": [
+			{
+				"hospital": "Imperial Hospital,Chittagong",
+				"designation": "Medical Officer",
+				"department": "Covid Department",
+				"period": "Jul 11, 2020 - Aug 31, 2021"
+			},
+			{
+				"hospital": "Imperial Hospital,Chittagong",
+				"designation": "Medical Officer",
+				"department": "Covid Department",
+				"period": "Jul 11, 2020 - Aug 31, 2021"
+			},
+			{
+				"hospital": "Imperial Hospital,Chittagong",
+				"designation": "Medical Officer",
+				"department": "Covid Department",
+				"period": "Jul 11, 2020 - Aug 31, 2021"
+			}
+		],
+		"photo": "https://i.ibb.co/vzvTZTv/Untitled-design-9.png"
+	},
+	{
+		"name": "Faysal Rana",
+		"username": "faysal123",
+		"password": "pass@123",
+		"email": "faisal32@gmail.com",
+		"catagory": "Physician",
+		"working": "Upazila Health Complex,Faridganj,Chandpur",
+		"years": 3,
+		"BMDC": 103280,
+		"joined": "8 Feb 2021",
+		"rating": 4.9,
+		"people": 7314,
+		"about": "MBBS(Chittagong Medical College), BCS(Health), FCPS(Final Part-Medicine),PGT(Medicine), CCD(BIRDEM) MCGP(Pediatrics)(Reg-2103046002) Medical Officer:Upazila Health Complex, Faridganj,Chandpur Ex-MO: Imperial Hospital (COVID ICU),Chittagong Ex-MO:CSCR Hospital,Chittagong Ex-MO:Surgiscope Hospital(NICU), Chittagong Ex-EMO:Mirsarai Seba Hospital,Chittagong",
+		"consultation": "12:00 pm - 01:00 am",
+		"fee": "157.50",
+		"attended": 19418,
+		"followup": 105,
+		"availability": "Sat, Sun, Mon, Tue, Wed, Thu, Fri",
+		"code": "DT2056",
+		"experience": [
+			{
+				"hospital": "Imperial Hospital,Chittagong",
+				"designation": "Medical Officer",
+				"department": "Covid Department",
+				"period": "Jul 11, 2020 - Aug 31, 2021"
+			},
+			{
+				"hospital": "Imperial Hospital,Chittagong",
+				"designation": "Medical Officer",
+				"department": "Covid Department",
+				"period": "Jul 11, 2020 - Aug 31, 2021"
+			},
+			{
+				"hospital": "Imperial Hospital,Chittagong",
+				"designation": "Medical Officer",
+				"department": "Covid Department",
+				"period": "Jul 11, 2020 - Aug 31, 2021"
+			}
+		],
+		"photo": "https://i.ibb.co/vzvTZTv/Untitled-design-9.png"
+	}
+]
